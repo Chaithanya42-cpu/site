@@ -1,0 +1,6 @@
+{
+  "name": "LuminaBooks",
+  "description": "Premium DRM-free digital bookstore for developers, strategists, and designers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
